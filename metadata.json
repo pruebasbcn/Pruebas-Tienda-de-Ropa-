@@ -1,0 +1,6 @@
+{
+  "name": "Pequeña Luna · Ropa Infantil Ecuador",
+  "description": "Web institucional y catálogo de referencia para tienda de ropa infantil Pequeña Luna en Ecuador. Confección en algodón pima y lino suave.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
